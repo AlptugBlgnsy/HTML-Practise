@@ -1,3 +1,3 @@
 # HTML-Practise
 
-Patika.dev
+www.Patika.dev
